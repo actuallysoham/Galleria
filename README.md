@@ -6,7 +6,7 @@ Why *Galleria*? Coz it's the Italian for Gallery. Yeah no, that's it.
 
 ## Usage
 
-For now, please clone the repository and run the gallery.html file. I'll host it shortly, after fixing a few issues.
+For now, please clone the repository and run the timeline.html file. I'll host it shortly, after fixing a few issues.
 
 ### Issues to be resolved
 
