@@ -4,6 +4,8 @@ A clean dashboard to interface with the Harvard Museum API. In this application,
 
 Why *Galleria*? Coz it's the Italian for Gallery. Yeah no, that's it. 
 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/60803609/89148238-df740000-d576-11ea-90b8-08a9d09a00cf.gif)
+
 ## Usage
 
 For now, please clone the repository and run the timeline.html file. I'll host it shortly, after fixing a few issues.
